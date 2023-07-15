@@ -1,4 +1,4 @@
-# HomeCraft
+# ShortStop
 No more shorts.
     - If you try to click on a YouTube short, you will be redirected to YouTube.
     - The "Shorts" tab has been removed from the YouTube homepage.
